@@ -32,17 +32,20 @@ public class AfterBeforeTeste {
 
     @BeforeAll
     static void configuraConexao() {
+
         GerenciadorDeConexaoComBancoDeDados.iniciarConexao();
     }
 
     @BeforeEach
     void insereDadosParaTeste() {
-        GerenciadorDeConexaoComBancoDeDados.insereDados(new Pessoa("Joao", LocalDateTime.of(2000, 1, 1, 13, 0, 0)));
+        GerenciadorDeConexaoComBancoDeDados
+                .insereDados(new Pessoa("Joao", LocalDateTime.of(2000, 1, 1, 13, 0, 0)));
     }
 
     @AfterEach
     void removeDadosDoTeste() {
-        GerenciadorDeConexaoComBancoDeDados.removeDados(new Pessoa("Joao", LocalDateTime.of(2000, 1, 1, 13, 0, 0)));
+        GerenciadorDeConexaoComBancoDeDados
+                .removeDados(new Pessoa("Joao", LocalDateTime.of(2000, 1, 1, 13, 0, 0)));
     }
 
     @Test
