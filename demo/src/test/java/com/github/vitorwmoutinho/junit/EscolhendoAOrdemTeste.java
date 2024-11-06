@@ -31,7 +31,7 @@ public class EscolhendoAOrdemTeste {
 
     @DisplayName("Teste que valida se o usuário foi criado")
     @Test
-    @DisplayName("A")
+    
     void validaFluxoA() {
         Assertions.assertTrue(true);
     }
