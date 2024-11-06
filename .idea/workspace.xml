@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d224067a-5fa7-4fe6-af7a-c41c67d0ebd0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/github/vitorwmoutinho/junit/TransferenciaEntreContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/github/vitorwmoutinho/junit/TransferenciaEntreContas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/test/java/com/github/vitorwmoutinho/junit/ExceptionsTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/test/java/com/github/vitorwmoutinho/junit/ExceptionsTeste.java" afterDir="false" />
-    </list>
+    <list default="true" id="d224067a-5fa7-4fe6-af7a-c41c67d0ebd0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
