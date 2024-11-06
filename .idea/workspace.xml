@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d224067a-5fa7-4fe6-af7a-c41c67d0ebd0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/demo/src/test/java/com/github/vitorwmoutinho/junit/CondicionaisTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/test/java/com/github/vitorwmoutinho/junit/CondicionaisTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/github/vitorwmoutinho/junit/TransferenciaEntreContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/github/vitorwmoutinho/junit/TransferenciaEntreContas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/test/java/com/github/vitorwmoutinho/junit/ExceptionsTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/test/java/com/github/vitorwmoutinho/junit/ExceptionsTeste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +28,9 @@
     &quot;accountId&quot;: &quot;83276a7d-19f5-46bd-b83b-4a1d53e93f6e&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>

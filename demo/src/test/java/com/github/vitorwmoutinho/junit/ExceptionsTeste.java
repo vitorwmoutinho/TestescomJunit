@@ -36,6 +36,6 @@ public class ExceptionsTeste {
 
         TransferenciaEntreContas transferenciaEntreContas = new TransferenciaEntreContas();
 
-        Assertions.assertDoesNotThrow(() -> transferenciaEntreContas.transfere(contaOrigem, contaDestino, 20));
+        Assertions.assertDoesNotThrow( () -> transferenciaEntreContas.transfere(contaOrigem, contaDestino, 20));
     }
 }
