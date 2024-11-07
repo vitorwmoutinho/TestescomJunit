@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c1500900-f9ac-4ebf-886f-d5f468a53bab" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.App.executor": "Run",
+    "JUnit.AfterBeforeTeste.validarDadosDeRetorno.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -45,7 +48,7 @@
     "last_opened_file_path": "C:/Users/Vitor/Documents/github/aprendizado_dio/TestescomJunit"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.AfterBeforeTeste">
+  <component name="RunManager" selected="JUnit.AfterBeforeTeste.validarDadosDeRetorno">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.App" />
       <module name="quick-start-maven" />
@@ -74,8 +77,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AfterBeforeTeste.validarDadosDeRetorno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="quick-start-maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.vitorwmoutinho.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.vitorwmoutinho.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.github.vitorwmoutinho.junit.AfterBeforeTeste" />
+      <option name="METHOD_NAME" value="validarDadosDeRetorno" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AfterBeforeTeste.validarDadosDeRetorno" />
         <item itemvalue="JUnit.AfterBeforeTeste" />
         <item itemvalue="Application.App" />
       </list>
